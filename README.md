@@ -1,3 +1,3 @@
-# anomaly-detection
+# price anomaly-detection
 
-simple model to find out if we can find abnormal prices for used cars
+check 2nd hand cars prices for good deal - price anomalies 
